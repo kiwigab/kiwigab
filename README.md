@@ -2,7 +2,7 @@
 ehh
 
 <h2>📑 Where to find me</h2>
-<ul>
+<ul style="list-style: none;">
   <li>
     <a href="https://discord.com/users/402863479192551455">Discord</a>
   </li>
