@@ -2,7 +2,12 @@
 ehh
 
 <h2>📑 Where to find me</h2>
-[Discord](https://discord.com/users/402863479192551455)
+<ul>
+  <li>
+    <a src="https://discord.com/users/402863479192551455">Discord</a>
+  </li>
+</ul>
+
 <h2>🤖 Tools</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="3%" />
