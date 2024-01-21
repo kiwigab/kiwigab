@@ -6,6 +6,10 @@ ehh
   <li>
     <a href="https://discord.com/users/402863479192551455">Discord</a>
   </li>
+  
+  <li>
+    <a href="https://twitter.com/kiwigab_">Twitter</a>
+  </li>
 </ul>
 
 <h2>🤖 Tools</h2>
