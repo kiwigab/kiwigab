@@ -12,5 +12,5 @@ ehh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="3%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="3%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="3%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" width="3%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-plain.svg" width="3%" />
 </p>
