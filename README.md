@@ -1,7 +1,4 @@
 <h1 align="center">Hey there, I'm kiwigab! :wave:</h1>
-<p align="center">
-  <em>Developer</em>
-</p>
 <h2>:mailbox: Where to find me</h2>
 <ul style="list-style-type: none;">
   <li>
