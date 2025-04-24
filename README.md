@@ -28,7 +28,6 @@ ehh
 <h2>:bar_chart: GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiwigab&show_icons=true&theme=radical" alt="kiwigab's GitHub stats" width="49%" height="195px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiwigab&theme=radical" alt="GitHub Streak" width="49%" height="195px"/>
 </p>
 <h2>:rocket: Projects & Contributions</h2>
 <p>
