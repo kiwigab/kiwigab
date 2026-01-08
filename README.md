@@ -21,10 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3"/>
 </p>
-<h2>:bar_chart: GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiwigab&show_icons=true&theme=radical" alt="kiwigab's GitHub stats" width="49%" height="195px"/>
-</p>
+
 <h2>:rocket: Projects & Contributions</h2>
 <p>
   Check out some of the cool stuff I've worked on! <br>
